@@ -1,2 +1,2 @@
-# Basic-Cashier
-This is a basic program in python for a basic's cashier fuctions. We assume that the user only haVe a numeric keyboard.
+# Basic-ATM functions
+This is a basic program in python for a basic's atm fuctions. We assume that the user only have a numeric keyboard.
